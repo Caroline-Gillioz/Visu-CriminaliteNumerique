@@ -1,0 +1,14 @@
+{
+  "name": "4ad5a1e4d01397ac",
+  "main": "4ad5a1e4d01397ac@688.js",
+  "version": "688.0.0",
+  "homepage": "https://observablehq.com/d/4ad5a1e4d01397ac",
+  "author": {
+    "name": "Visualisation",
+    "url": "https://observablehq.com/@visualisation-projet"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
