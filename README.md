@@ -12,9 +12,11 @@ Pour chaque infraction, le nombre de cas a été scindé selon le mode opératoi
 
 <img width="664" alt="Capture d’écran 2023-06-16 à 09 38 01" src="https://github.com/Caroline-Gillioz/Visu-CriminaliteNumerique/assets/126594019/c02d5f0e-660d-4a9c-b0d7-ef7ebfba1f77">
 
+
 La seconde visualisation regroupe les infractions précédentes par bien juridiquement protégé, pour les années 2020 à 2022. Une telle représentation permet de mettre en évidence les motivations des cybercriminels, peu importe le mode opératoire. 
 
 <img width="691" alt="Capture d’écran 2023-06-16 à 09 39 56" src="https://github.com/Caroline-Gillioz/Visu-CriminaliteNumerique/assets/126594019/6aefea38-aa14-4d90-80cc-1402db9cb90c">
+
 
 _*Selon la définition de l'OFS : « La criminalité numérique (cybercriminalité) représente l’ensemble des infractions dites "numériques" correspondant essentiellement aux infractions pénales commises sur les réseaux de télécommunication, en particulier Internet. L'identification d'une infraction propre à la cybercriminalité se fait via le modus operandi dans la statistique policière de la criminalité. » (https://www.bfs.admin.ch/bfs/fr/home/statistiques/criminalite-droit-penal/police/criminalite-numerique.html)_
 
